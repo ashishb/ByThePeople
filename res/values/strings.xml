@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">By The People</string>
+    <string name="notes_done">Done</string>
+    <string name="notes_cancel">Cancel</string>
+    <string name="notes_hint">Enter the description of the incident here</string>
+</resources>

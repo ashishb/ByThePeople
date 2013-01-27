@@ -1,0 +1,4 @@
+Dev versions
+-----------------------
+To compile: ant debug
+To execute: ant installd
