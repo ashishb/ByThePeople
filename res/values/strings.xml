@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="video_not_supported">Video recording is not available on this device</string>
+    <string name="photo_not_supported">Photo capturing is not available on this device</string>
+    <string name="audio_not_supported">Audio recording support is coming soon.</string>
+    <string name="report_submission_mocked">Report submission has been mocked</string>
+
+    <string name="photo_failed">Photo capture failed, please try again</string>
     <string name="app_name">By The People</string>
     <string name="notes_done">Done</string>
     <string name="notes_cancel">Cancel</string>
     <string name="notes_hint">Enter the description of the incident here</string>
+    <string name="notes_attachment_info">List of attached photos/videos (if any)</string>
+    <string name="action_canceled">Action canceled</string>
 </resources>

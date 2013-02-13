@@ -21,4 +21,9 @@
       android:layout_alignParentBottom="true"
       android:text="@string/notes_cancel" />
     </LinearLayout>
+  <TextView android:id="@+id/notes_attachments"
+  android:layout_width="match_parent"
+  android:layout_height="wrap_content"
+  android:background="@android:color/black"
+  android:minLines="2" />
 </LinearLayout>
